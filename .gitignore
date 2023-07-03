@@ -1,2 +1,4 @@
 .DS_Store/
+.idea/
 scan-reports/
+./manifest.yaml
