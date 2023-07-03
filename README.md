@@ -1,6 +1,6 @@
 # Trivy Scanner
 
-Trivy Scanner is a Go script that reads a manifest file containing a list of Docker images, pulls the images locally (if not already present), and performs a Trivy scan on each image. The Trivy scan reports are then stored in individual files.
+Trivy Scanner is a Go script that helps you scan a list of Docker images using Trivy.
 
 ## Presentation
 
@@ -25,4 +25,3 @@ The Trivy Scanner script performs the following steps:
    ```bash
    make run-scanner
    ```
-# trivy-scanner
