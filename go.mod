@@ -1,4 +1,4 @@
-module github.com/shsma/trivy-scanner
+module github.com/shsma/trivy-bulk-scanner
 
 go 1.20
 
