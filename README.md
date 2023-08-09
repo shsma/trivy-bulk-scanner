@@ -1,6 +1,6 @@
 # Trivy Bulk Scanner
 
-Trivy Bulk Scanner is a Go module that helps you scan a list of Docker images using Trivy.
+Trivy Bulk Scanner is a Go module that helps you bulk scan a list of Docker images using Trivy.
 
 ## Presentation
 
